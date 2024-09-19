@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kghau.github.io/GJi/sitemap.GJi.gz
